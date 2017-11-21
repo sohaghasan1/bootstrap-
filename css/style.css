@@ -1,0 +1,156 @@
+
+header{
+    background: url(../images/header_bg02.jpg)no-repeat;
+    
+    background-size: cover;
+    margin-bottom: 50px;
+    background-position: center center;
+}
+.nav_style{
+    background-color: transparent;
+    border: none;
+    margin-top: 25px;
+    padding-bottom: 30px;
+    margin-bottom: 25px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;}
+.logo{
+    margin-top: 30px;
+}
+.title{
+        color: white;
+    font-size: 35px;
+    margin-top: 150px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.description{
+        width: 84%;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.content{
+        color: white;
+    font-size: 14px;
+    font-weight: 100;
+    margin: 35px 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.download_icon{
+         padding: 5px 10px;
+    /* color: #fc6a42; */
+    background-color: #fc6a42;
+    border: none;
+    color: white;
+        border-radius: 4px;
+        margin-bottom: 210px;
+}
+.feature{
+        padding: 5px 10px;
+    /* color: #fc6a42; */
+    background-color: #4466c9;
+    border: none;
+    color: white;
+        border-radius: 4px;
+        margin-bottom: 187px;
+}
+h2{
+    color: #648cff;
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.content_feature{
+        color: #b3b3b3;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.article{
+    float: right;
+    font-family: 'Ubuntu', sans-serif;
+}
+.icon{
+        font-size: 95px;
+    margin-top: 270px;
+    color: c3cfe5;
+    color: #c3cfe5;
+        margin-left: 90px;
+}
+.screen_img img,.widget_img img{
+    width: 100%
+}
+.screen_content{
+        margin-top: 100px;;
+        width: 65%;
+    font-family: 'Ubuntu', sans-serif;
+}
+.opinion{
+        margin-top: 50px;
+    
+}
+,opinion p{
+    font-family: 'Ubuntu', sans-serif;
+}
+.heading{
+        font-size: 17px;
+    color: #353854;
+    margin-bottom: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.author{
+    font-family: 'Ubuntu', sans-serif;
+}
+.download{
+    background: url(../images/ad_bg.jpg)no-repeat;
+    background-size: cover;
+        margin-top: 35px;
+    background-position: center center;
+}
+.download_heading{
+        font-size: 26px;
+    color: white;
+    margin-top: 100px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.download_content{
+        color: white;
+    margin-top: 29px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 26px;
+}
+
+.btn{
+        background-color: transparent;
+    border: none;
+    margin-bottom: 80px;
+}
+.btn img{
+        width: 75%;
+}
+.footer{
+    background-color: #353854;
+    min-height: 320px;
+}
+.footer_logo{
+        margin-top: 100px;
+}
+.footer_menu{
+        margin-top: 85px;
+}
+.line{
+    color: #b5b5c8;
+    font-size: 5px;
+    width: 100%;
+}
+.copyright p{
+    color: #50557e;
+margin-top: 40px;
+}
+.content_download{
+    
+}
